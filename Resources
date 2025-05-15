@@ -1,24 +1,36 @@
-virtual machine set up stuff:
+General repo for resources on all CS topics:
 
-https://www.tomshardware.com/how-to/set-up-virtual-machines-with-virtualbox
+https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#math-for-computer-scientist
 
-https://www.virtualbox.org/
-
-
-
+Website from above repo with topics:
+https://computationstructures.org/lectures/info/info.html
 
 
 
 
+learn how compilers work by building one:
+
+https://github.com/DoctorWkt/acwj?tab=readme-ov-file
 
 
-https://www.reddit.com/r/learnprogramming/comments/fnxyq7/how_to_actually_learn_cs/ -> get the course info from this
-    EJ Media - youtube account
+looking at x86-64 assembly by building a GUI
 
-https://www.reddit.com/r/computerscience/comments/1bdq1x6/books_to_understand_how_everything_works_under/
+https://gaultier.github.io/blog/x11_x64.html#3018859686-what-do-we-need
 
-  Computer Systems: A Programmer's Perspective - bryant and o'hallaron
 
-  https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo - crash course on computer science, 41 lectures
+practicing programming:
 
-  https://www.coursera.org/learn/build-a-computer
+https://edabit.com/
+
+https://www.codeabbey.com/
+
+https://www.codewars.com/
+
+
+Mathetmatic for computer science course (book is in this repo as well):
+
+pre-requisite - single variable calculus
+
+https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/
+
+https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/syllabus/
